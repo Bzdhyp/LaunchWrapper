@@ -1,2 +1,2 @@
 # LaunchWrapper
-❤️这是Class1337写的一坨屎，想用就用❤️
+❤️这是Class1337使用Java-Swing写的启动页面❤️
